@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+choxVhj0rLwzIIpE1meH7nOZrikmRvvirHn7/sGIMEH25QtAos0YJsAu436xmMNltZ3XTd2LEnG9kHGiBUC4Q==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

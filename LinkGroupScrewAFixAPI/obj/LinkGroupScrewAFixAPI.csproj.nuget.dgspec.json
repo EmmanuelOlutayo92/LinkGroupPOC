@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Models/LinkGroup.ScrewAFix.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Models/LinkGroup.ScrewAFix.Models.csproj",
+        "projectName": "LinkGroup.ScrewAFix.Models",
+        "projectPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Models/LinkGroup.ScrewAFix.Models.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mac/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Services/LinkGroup.ScrewAFix.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Services/LinkGroup.ScrewAFix.Services.csproj",
+        "projectName": "LinkGroup.ScrewAFix.Services",
+        "projectPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Services/LinkGroup.ScrewAFix.Services.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mac/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Models/LinkGroup.ScrewAFix.Models.csproj": {
+                "projectPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Models/LinkGroup.ScrewAFix.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI.csproj",
+        "projectName": "LinkGroupScrewAFixAPI",
+        "projectPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroupScrewAFixAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mac/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Models/LinkGroup.ScrewAFix.Models.csproj": {
+                "projectPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Models/LinkGroup.ScrewAFix.Models.csproj"
+              },
+              "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Services/LinkGroup.ScrewAFix.Services.csproj": {
+                "projectPath": "/Users/mac/Documents/New Solution/LinkGroup/LinkGroupScrewAFixAPI/LinkGroup.ScrewAFix.Services/LinkGroup.ScrewAFix.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

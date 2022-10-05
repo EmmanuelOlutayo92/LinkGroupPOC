@@ -1,0 +1,12 @@
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\bin\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Models.dll
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\obj\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.csprojAssemblyReference.cache
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\obj\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.AssemblyInfoInputs.cache
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\obj\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.AssemblyInfo.cs
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\bin\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.deps.json
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\bin\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.dll
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\bin\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.pdb
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\bin\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Models.pdb
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\obj\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\obj\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.csproj.CopyComplete
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\obj\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.dll
+C:\Users\EmmanuelOlutayo\source\repos\LinkGroupScrewAFixAPI\LinkGroup.ScrewAFix.Services\obj\Debug\netcoreapp3.1\LinkGroup.ScrewAFix.Services.pdb

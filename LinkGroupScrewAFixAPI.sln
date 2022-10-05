@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkGroupScrewAFixAPI", "LinkGroupScrewAFixAPI\LinkGroupScrewAFixAPI.csproj", "{BF35B754-7F93-41A7-9897-598963528095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkGroup.ScrewAFix.Models", "LinkGroup.ScrewAFix.Models\LinkGroup.ScrewAFix.Models.csproj", "{1BDCCC98-D2E6-4EA4-ADEF-9E5568AA9ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkGroup.ScrewAFix.Services", "LinkGroup.ScrewAFix.Services\LinkGroup.ScrewAFix.Services.csproj", "{4E6B90FB-FB79-47DB-B1B4-D186D1A3A59E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF35B754-7F93-41A7-9897-598963528095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF35B754-7F93-41A7-9897-598963528095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF35B754-7F93-41A7-9897-598963528095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF35B754-7F93-41A7-9897-598963528095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDCCC98-D2E6-4EA4-ADEF-9E5568AA9ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDCCC98-D2E6-4EA4-ADEF-9E5568AA9ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDCCC98-D2E6-4EA4-ADEF-9E5568AA9ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDCCC98-D2E6-4EA4-ADEF-9E5568AA9ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6B90FB-FB79-47DB-B1B4-D186D1A3A59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6B90FB-FB79-47DB-B1B4-D186D1A3A59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6B90FB-FB79-47DB-B1B4-D186D1A3A59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6B90FB-FB79-47DB-B1B4-D186D1A3A59E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0801B573-9172-47B5-8D78-F6BDDFB504AD}
+	EndGlobalSection
+EndGlobal
